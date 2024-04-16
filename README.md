@@ -20,4 +20,4 @@
 # Workshop resources(no VOD)
 
 [Workshop: Malware Development 101 - From Zero to Non-Hero](https://github.com/lsecqt/BSides-2024-Malware-Development-101-From-Zero-to-Non-Hero)
-[Workshop: Purple team assessments execution tips] (https://github.com/iliyanvelikov/BSides-Sofia-2024)
+[Workshop: Purple team assessments execution tips](https://github.com/iliyanvelikov/BSides-Sofia-2024)
