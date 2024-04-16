@@ -1,2 +1,8 @@
-# BSidesBG-2024
-BSidesSOF (aka BSidesBG) '24 talks and workshops
+# BSidesBG-2024-Talks-and-Workshops
+[Presentations from the second BSides Sofia 2023](https://securitybsides.bg/#agenda)
+
+
+
+| Presentation | Video | Presenters |
+| ------------ | ----- | ---------- |
+| Test         | Test  | Test       |
