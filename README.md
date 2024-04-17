@@ -23,3 +23,7 @@
 
 ---
 [Workshop: Purple team assessments execution tips](https://github.com/iliyanvelikov/BSides-Sofia-2024)
+
+---
+
+[Workshop: API Hacking JWTs in modern APIs](https://github.com/ViktorMares/BSides_CTF_Sofia_2024)
